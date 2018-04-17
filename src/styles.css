@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+.nav-link{
+    font-size: 30px;
+}
+.form-group{
+    font-size: 12px;
+    line-height: 4px;
+    
+}
+label{
+    line-height: 1.0;
+}
+.form-control{
+      
+    height: 24px;
+    font-size: 12px;
+    border-radius: 2px;
+    
+}
+.col-md-2,.col-md-3{
+    padding-top: 15px;
+}
+
+.border{
+    padding-top: 15px;
+}
+.sectionName{
+    background-color: dodgerblue;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
